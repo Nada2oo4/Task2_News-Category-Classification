@@ -14,15 +14,22 @@ Categories: "World News," "Sports News," "Business News," "Science Technology Ne
 🛠️ Steps Implemented:
 Data Preprocessing:
 Text cleaning (removing punctuation, lowercasing, stopword removal).
+
 Tokenization and stemming/lemmatization.
+
 Feature Extraction
+
 Bag-of-Words and TF-IDF Vectorization for converting text into numerical features.
+
 Model Training
+
 Classical ML models tested, such as:
 Logistic Regression
-Naive Bayes
-Random Forest
+
 Support Vector Machine (SVM)
+
+neural network  (simple feedforward NN with Keras)
+
 Evaluation
 Accuracy, Precision, Recall, and F1-score were calculated.
 Confusion matrices and classification reports were used to analyze performance.
@@ -49,6 +56,7 @@ matplotlib
 seaborn
 
 Bonus tasks that has been done:
+
 1- Visualized the most frequent words per category using bar plots or word clouds
 
 2- trained the model using a neural network  (simple feedforward NN with Keras)
