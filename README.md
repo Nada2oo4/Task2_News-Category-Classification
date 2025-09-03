@@ -9,7 +9,7 @@ News classification is an important NLP application, widely used in recommendati
 
 Source: News Category Dataset
 Size: ~200,000 news headlines/articles
-Categories: classifying the news articales into 4 categories: "World News," "Sports News," "Business News," "Science Technology News"
+Categories: "World News," "Sports News," "Business News," "Science Technology News"
 
 🛠️ Steps Implemented:
 Data Preprocessing:
@@ -28,6 +28,9 @@ Accuracy, Precision, Recall, and F1-score were calculated.
 Confusion matrices and classification reports were used to analyze performance.
 
 📊 Results:
+
+classifying the news articales into 4 categories:"World News," "Sports News," "Business News," "Science Technology News"
+
 The models were compared across different metrics.
 Logistic Regression Accuracy: 0.8946
 SVM Accuracy: 0.8972
