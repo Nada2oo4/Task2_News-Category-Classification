@@ -4,6 +4,7 @@
 This project was developed as part of the Elevvo Pathways Internship – NLP Track.
 The goal of this task is to build a Text Classification system that automatically predicts the category of a news article based on its content.
 News classification is an important NLP application, widely used in recommendation systems, search engines, and digital journalism. This project demonstrates how to preprocess raw text, extract features, and train machine learning models for multi-class classification.
+
 📂 Dataset:
 
 Source: News Category Dataset
@@ -46,4 +47,5 @@ seaborn
 
 Bonus tasks that has been done:
 1- Visualized the most frequent words per category using bar plots or word clouds
+
 2- trained the model using a neural network  (simple feedforward NN with Keras)
